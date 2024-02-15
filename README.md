@@ -13,7 +13,7 @@ Screenshot
 
 Link below:
 
-https://github.com/devbelle/SVG-Logo-Generator
+https://github.com/devbelle/employee_tracker
 
 ##Credits
 
